@@ -1,12 +1,32 @@
 ﻿# ML Project
+
+
+ 
 #Spirulina Cultivation Project
+
+
+
 #This project analyzes Spirulina cultivation data to predict protein content using machine learning models like Decision Tree and k-NN.
+
+
+
+
 #Prerequisites
+
+
 Python 3.x
 Node.js
 MongoDB
 #Required Python libraries (see requirements.txt)
+
+
+
+
 How to Download and Run
+
+
+
+
 #Clone the repository:
 git clone https://github.com/SanjayR14/SPIRULINA-CULTIVATION.git
 cd SPIRULINA-CULTIVATION
