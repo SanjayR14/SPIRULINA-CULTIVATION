@@ -59,7 +59,7 @@ npm install
 #Run the backend:
 
 
-python backend/app.py
+python manage.py
 
 
 #Run the frontend:
