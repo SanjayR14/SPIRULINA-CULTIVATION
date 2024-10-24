@@ -71,4 +71,15 @@ npm start
 ![Alt text](./images/Screenshot%202024-10-24%20125003.png)
 
 
+![Alt text](./images/Screenshot%202024-10-24%20125056.png)
+
+
+![Alt text](./images/Screenshot%202024-10-24%20125120.png)
+
+
+
+![Alt text](./images/Screenshot%202024-10-24%20125145.png)
+
+
+
 
