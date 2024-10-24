@@ -67,3 +67,8 @@ python backend/app.py
 
 cd frontend
 npm start
+
+
+![Alt text](./images/Screenshot_2024-10-24_125003.png)
+
+
